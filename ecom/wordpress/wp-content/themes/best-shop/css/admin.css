@@ -1,0 +1,18 @@
+/* CSS Document */
+.envo-review-notice, .etww-admin-notice.notice-warning {
+  display: none;
+  left: 9999px;
+}
+
+.button.best-shop-btn-warning {
+  background: #d63638;
+  border-color: #b32d2e;
+  color: #ffffff;
+}
+
+.button.best-shop-btn-warning:hover,
+.button.best-shop-btn-warning:focus {
+  background: #b32d2e;
+  border-color: #8c2425;
+  color: #ffffff;
+}
